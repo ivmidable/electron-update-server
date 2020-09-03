@@ -1,0 +1,15 @@
+{
+    "name": "Simple-Electron-Express",
+    "version": "0.0.1",
+    "description": "Simple Express Server for Electron Updates",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Richard Vade <ivmidable@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "express": "4.17.1",
+        "cors": "2.8.5"
+    }
+}
