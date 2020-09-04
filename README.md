@@ -1,11 +1,11 @@
-# Simple-Electron-Express
+# electron-update-server
 
 a bare-bones express server for serving electron updates
 
 # Installation
 ```
-git clone https://github.com/ivmidable/Simple-Electron-Express.git
-cd Simple-Electron-Express
+git clone https://github.com/ivmidable/electron-update-server.git
+cd electron-update-server
 npm install
 ```
 
